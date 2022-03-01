@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x180980c66f23e3635f6a942e69a04fde4c10c0e3",
+  "SCAN_LINK": "https://testnet.snowtrace.io/tx/0x2178b97cd86b086e71f877679a5f63c1752826b8535be1a23daf34d499a644e5",
+  "NETWORK": {
+    "NAME": "Avalanche",
+    "SYMBOL": "AVAX",
+    "ID": 43113
+  },
+  "NFT_NAME": "Robots NFT Collection",
+  "SYMBOL": "RBTNFT",
+  "MAX_SUPPLY": 992,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Tofu NFT",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
